@@ -38,9 +38,9 @@ GGUF模型：
 
 https://huggingface.co/shareAI/qwen2.5-0.5b-r1-GGUF （FP16）
 
-https://huggingface.co/shareAI/llama3.2-1b-r1-GGUF（Q4 K_M）
+https://huggingface.co/shareAI/llama3.2-1b-r1-GGUF （Q4 K_M）
 
-https://huggingface.co/shareAI/llama3.2-3b-r1-GGUF（Q4 K_M）
+https://huggingface.co/shareAI/llama3.2-3b-r1-GGUF （Q4 K_M）
 
 ## 3.数据集介绍
 
