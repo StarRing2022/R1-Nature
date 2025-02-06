@@ -162,7 +162,7 @@ Hψ = Eψ
 
 （3）采用之前的智能体prompt技术，去操控思维整体过程
 
-（4）ZeroCoT随机插值CoT（https://github.com/Beortext/RWKV-ZeroCoT），也是参考性的相关思路，因为问题根本原因仍出在think标签涵盖的内容，被如“酱油层”过分展开
+（4）ZeroCoT随机插值CoT https://github.com/Beortext/RWKV-ZeroCoT ，也是参考性的相关思路，因为问题根本原因仍出在think标签涵盖的内容，被如“酱油层”过分展开
 
 （5）区分不同阶段的数据集，其特点、量级和质量作提升
 
