@@ -48,7 +48,7 @@ ringo1-CoT_demo.json，大约0.1K条数据，英文为主，混合中文，原�
 
 openr1-SFT.json，由jsonl转化，大约160K条数据，中英文混杂，原始数据集来源于OpenO1，https://huggingface.co/datasets/O1-OPEN/OpenO1-SFT ，标签格式为<think>...</think>和<answer>...</answer>，1B模型+单卡4090需要训练1轮约35h时长
 
-magpie-r1.json，由parquet转化，大约10K条数据，全英文，且思维链内容较长，原始数据集来源于Magpie，https://huggingface.co/datasets/LangAGI-Lab/magpie-reasoning-v1-10k-step-by-step-rationale-alpaca-format， 1B模型+单卡4090需要训练1轮约30min时长
+magpie-r1.json，由parquet转化，大约10K条数据，全英文，且思维链内容较长，原始数据集来源于Magpie，https://huggingface.co/datasets/LangAGI-Lab/magpie-reasoning-v1-10k-step-by-step-rationale-alpaca-format ， 1B模型+单卡4090需要训练1轮约30min时长
 
 
 
