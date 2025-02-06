@@ -22,17 +22,17 @@ RTX 4090 24G 显卡一张
 
 模型：
 
-https://huggingface.co/StarRing2022/qwen2.5-0.5b-r1 （由qwen2.5 0.5b蒸馏微调）
+https://huggingface.co/StarRing2022/qwen2.5-0.5b-r1  （由qwen2.5 0.5b蒸馏微调）
 
-https://huggingface.co/StarRing2022/llama3.2-1b-r1（由llama3.2 1b蒸馏微调）
+https://huggingface.co/StarRing2022/llama3.2-1b-r1 （由llama3.2 1b蒸馏微调）
 
-https://huggingface.co/StarRing2022/llama3.2-3b-r1（由llama3.2 3b蒸馏微调）
+https://huggingface.co/StarRing2022/llama3.2-3b-r1 （由llama3.2 3b蒸馏微调）
 
-https://huggingface.co/StarRing2022/qwen2.5-1.5b-r1（由qwen2.5 1.5b蒸馏微调）
+https://huggingface.co/StarRing2022/qwen2.5-1.5b-r1 （由qwen2.5 1.5b蒸馏微调）
 
-https://huggingface.co/StarRing2022/deepqwen2.5-1.5b-r1（由deepseek官方发布的qwen2.5 1.5b蒸馏微调）
+https://huggingface.co/StarRing2022/deepqwen2.5-1.5b-r1 （由deepseek官方发布的qwen2.5 1.5b蒸馏微调）
 
-https://huggingface.co/StarRing2022/R1-Alpaca-Lora (各实验模型的lora权值)
+https://huggingface.co/StarRing2022/R1-Alpaca-Lora  (各实验模型的lora权值)
 
 GGUF模型：
 
