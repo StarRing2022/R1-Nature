@@ -44,11 +44,11 @@ https://huggingface.co/shareAI/llama3.2-3b-r1-GGUF （Q4 K_M）
 
 ## 3.数据集介绍
 
-ringo1-CoT_demo.json，大约0.1K条数据，英文为主，混合中文，原始数据集来源于Marco-o1（https://github.com/AIDC-AI/Marco-o1）, 用于微调的尝试，1B模型+单卡4090训练1轮仅需数分钟即可，修改格式标签为<think>...</think>或更贴近于编程含义的<thinkbegin>...</thinkend>，去掉原有的<output>...</output>，发现这种思维性质的标签，会产生很大影响
+ringo1-CoT_demo.json，大约0.1K条数据，英文为主，混合中文，原始数据集来源于Marco-o1， https://github.com/AIDC-AI/Marco-o1, 用于微调的尝试，1B模型+单卡4090训练1轮仅需数分钟即可，修改格式标签为<think>...</think>或更贴近于编程含义的<thinkbegin>...</thinkend>，去掉原有的<output>...</output>，发现这种思维性质的标签，会产生很大影响
 
-openr1-SFT.json，由jsonl转化，大约160K条数据，中英文混杂，原始数据集来源于OpenO1（https://huggingface.co/datasets/O1-OPEN/OpenO1-SFT ），标签格式为<think>...</think>和<answer>...</answer>，1B模型+单卡4090需要训练1轮约35h时长
+openr1-SFT.json，由jsonl转化，大约160K条数据，中英文混杂，原始数据集来源于OpenO1，https://huggingface.co/datasets/O1-OPEN/OpenO1-SFT ，标签格式为<think>...</think>和<answer>...</answer>，1B模型+单卡4090需要训练1轮约35h时长
 
-magpie-r1.json，由parquet转化，大约10K条数据，全英文，且思维链内容较长，原始数据集来源于Magpie（https://huggingface.co/datasets/LangAGI-Lab/magpie-reasoning-v1-10k-step-by-step-rationale-alpaca-format）， 1B模型+单卡4090需要训练1轮约30min时长
+magpie-r1.json，由parquet转化，大约10K条数据，全英文，且思维链内容较长，原始数据集来源于Magpie，https://huggingface.co/datasets/LangAGI-Lab/magpie-reasoning-v1-10k-step-by-step-rationale-alpaca-format， 1B模型+单卡4090需要训练1轮约30min时长
 
 
 
