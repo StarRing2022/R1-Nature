@@ -34,7 +34,7 @@ https://huggingface.co/StarRing2022/deepqwen2.5-1.5b-r1 （由deepseek官方发�
 
 https://huggingface.co/StarRing2022/R1-Alpaca-Lora  (各实验模型的lora权值)
 
-GGUF模型：
+GGUF模型（支持端侧、边缘算例设备）：
 
 https://huggingface.co/shareAI/qwen2.5-0.5b-r1-GGUF （FP16）
 
